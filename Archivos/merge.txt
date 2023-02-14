@@ -1,3 +1,5 @@
 Samuel Gutierrez Osorio
-18 años
+18 
 Por el momento no se mucho acerca de la carrera en general entonces espero que en poo pueda expandir mucho mi conocimiento acerca de programacion y tener en cuenta si quiero o no dedicarme a esto
+Ya se puede crear un commit y subir la carpeta debido a que la carpeta no esta vacia
+Puede ocurrir que aparezca algun conflicto en las diferentes versiones del trabajo
